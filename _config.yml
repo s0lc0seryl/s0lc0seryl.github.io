@@ -3,7 +3,7 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+permalink:        "/:path/:basename/"
 relative_permalinks: true
 
 # Setup
