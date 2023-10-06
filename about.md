@@ -7,29 +7,17 @@ title: About
 
 I'm a Software Developer. In the last course of **Desarrollo de Aplicaciones Multiplataforma** on [Institut Obert de Catalunya](https://ioc.xtec.cat). I have a passion for cibersecurity and web development.
 
+During my studies we covered the next topics: 
+- Operating systems
+- Databases, with an emphasys on `postgresql` and complex `sql` queries
+- Persistance in databases (jdbc) and files, such as xml
+- Threads and concurrency
+- ERPs, mastering `odoo`
+- Android development
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Apart from the studies program, I learnt web development with frameworks like Spring and 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm also a passioned of cybersecurity and a user of [TryHackMe](https://tryhackme.com) platform. Thanks to this training I was able to get certified
+in eLearnSecurity Junior Penetration Tester (eJPT) and CompTIA Security+.
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+I am currently looking for my first job as a developer, after some years of training.
