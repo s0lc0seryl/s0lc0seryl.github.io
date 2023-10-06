@@ -3,6 +3,11 @@ layout: page
 title: About
 ---
 
+## Hi! This is Albert!
+
+I'm a Software Developer. In the last course of **Desarrollo de Aplicaciones Multiplataforma** on [Institut Obert de Catalunya](https://ioc.xtec.cat). I have a passion for cibersecurity and web development.
+
+
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
