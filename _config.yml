@@ -19,7 +19,7 @@ author:
 paginate:         5
 
 # Custom vars
-contact:          mailto://albert.nafria@proton.me
+contact:          mailto:albert.nafria@proton.me
 
 github:
   repo:           https://github.com/AlbertNafria
